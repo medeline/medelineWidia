@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Medeline</h1>
 <h3 align="center">A passionate data from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medeline&label=Profile%20views&color=0e75b6&style=flat" alt="medeline" /> </p>
 
